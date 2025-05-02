@@ -19,7 +19,7 @@ I am a **Full Stack Developer** with expertise in **PHP, Laravel, Java, JavaScri
 `Python` |  `Java` | `PHP` | `JavaScript` |  `SQL` | | `HTML5` | `CSS3`  
 
 **⚙️ Frameworks & Libraries:**  
-`React.js` | `Flask` | `Laravel` | `Spring Boot` | `Hibernate` | `JSP/Servlets` | `jQuery`  
+`React.js` | `FastAPI` | `Laravel` | `Spring Boot` | `Hibernate` | `JSP/Servlets` | `jQuery`  
 
 **📊 Databases:**  
 `MongoDB | MySQL` | `PostgreSQL` | `MSSQL Server` | `Oracle SQL`  
