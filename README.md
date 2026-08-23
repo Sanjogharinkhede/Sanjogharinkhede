@@ -3,7 +3,9 @@
 **Backend Software Engineer | Java & Python | Docker & Kubernetes | REST APIs**
 
 📍 **Location:** Bengaluru, India
+
 📧 **Email:** sanjogharinkhede@gmail.com
+
 🔗 **LinkedIn:** [linkedin.com/in/sanjogharinkhede](https://linkedin.com/in/sanjogharinkhede/)
 
 ---
@@ -55,13 +57,6 @@ Software Developer with 2+ years of experience in Java backend development, prod
 - Java Full Stack Development — QSpiders (2023)
 - FastAPI – Complete Course (Beginner to Advanced) — Udemy (2025)
 - Generative AI & Prompt Engineering — Udemy (2025)
-
----
-
-## 📌 Featured Projects
-
-- **[hospital_management](https://github.com/Sanjogharinkhede/hospital_management)** — Hospital management system built with Spring framework
-- **[Hibernate_With_JPA_OTM-MTO_Bidirectional](https://github.com/Sanjogharinkhede/Hibernate_With_JPA_OTM-MTO_Bidirectional)** — One-to-many bidirectional relationship mapping using Hibernate with JPA
 
 ---
 
