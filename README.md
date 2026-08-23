@@ -1,41 +1,44 @@
-# 💻 Sanjog Harinkhede  
-**Full Stack Developer | Backend Enthusiast | Problem Solver**  
-
-📍 **Location:** Jabalpur Mp India  
-📧 **Email:** sanjogharinkhede@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/sanjogharinkhede](https://linkedin.com/in/sanjogharinkhede/)  
-
----
-
-## 🚀 About Me  
-I am a **Full Stack Developer** with expertise in **PHP, Laravel, Java, JavaScript, and MySQL**, passionate about building **scalable, high-performance applications**. With hands-on experience across domains like **e-commerce, hospital management, and business automation**, I strive to create solutions that **enhance user experience and system efficiency**.  
-
-🏆 **Employee of the Month** (Twice) for delivering optimized, high-quality solutions under tight deadlines.  
-
----
-
-## 🔧 Tech Stack & Skills  
-**💻 Languages:**  
-`Python` |  `Java` | `PHP` | `JavaScript` |  `SQL` | | `HTML5` | `CSS3`  
-
-**⚙️ Frameworks & Libraries:**  
-`React.js` | `FastAPI` | `Laravel` | `Spring Boot` | `Hibernate` | `JSP/Servlets` | `jQuery`  
-
-**📊 Databases:**  
-`MongoDB | MySQL` | `PostgreSQL` | `MSSQL Server` | `Oracle SQL`  
-
-**🛠️ Tools & Platforms:**  
-`Git` | `GitHub` | `Postman` | `Apache Server` | `Docker` (Basic) | `AWS` (Basic)  
-
-**🔗 APIs & Web Services:**  
-`RESTful APIs` | `Google APIs`
-
----
-
-## 📈 My GitHub Stats  
+# 💻 Sanjog Harinkhede
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjogharinkhede&layout=compact&theme=radical)  
-
+**Backend Software Engineer | Java & Python | Docker & Kubernetes | REST APIs**
+ 
+📍 **Location:** Bengaluru, India
+📧 **Email:** sanjogharinkhede@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/sanjogharinkhede](https://linkedin.com/in/sanjogharinkhede/)
+ 
 ---
-
-_"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
+ 
+## 🚀 About Me
+ 
+Backend Software Engineer with 2+ years of experience building and debugging enterprise systems in Java and Python. Currently working on Ericsson telecom applications at Wipro — developing microservices, automating issue-analysis workflows, and troubleshooting distributed systems inside Docker/Kubernetes environments. Also experienced in full-stack delivery (PHP/Laravel, JavaScript) from earlier work across healthcare, e-commerce, and business domains.
+ 
+🏆 **Employee of the Month** (Twice) — recognized for optimized, high-quality delivery under tight deadlines.
+ 
+---
+ 
+## 🔧 Tech Stack & Skills
+ 
+**💻 Languages:**
+`Java` | `Python` | `SQL` | `JavaScript` | `PHP`
+ 
+**⚙️ Backend & Frameworks:**
+`Spring Boot` | `FastAPI` | `Microservices` | `REST APIs` | `Laravel`
+ 
+**🐳 DevOps & Infrastructure:**
+`Docker` | `Kubernetes` | `CI/CD (Jenkins)` | `Git` | `Linux`
+ 
+**📊 Databases:**
+`Oracle SQL` | `MySQL` | `PostgreSQL`
+ 
+**🤖 AI & Automation:**
+`Generative AI` | `Amazon Q` | `Kiro` | `Prompt Engineering` | `RAG`
+ 
+---
+ 
+## 📈 GitHub Stats
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjogharinkhede&layout=compact&theme=radical)
+ 
+---
+ 
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
