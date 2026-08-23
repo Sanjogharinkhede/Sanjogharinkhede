@@ -12,8 +12,6 @@
 
 Software Developer with 2+ years of experience in Java backend development, production troubleshooting, and enterprise application support across Telecom and Web domains. Currently working on Ericsson telecom systems at Wipro — building microservices and REST APIs, automating issue-analysis workflows in Python, and resolving complex application issues through root-cause analysis and distributed log investigation inside Docker/Kubernetes environments. Also experienced in full-stack delivery (PHP/Laravel, JavaScript) from earlier client-facing work across healthcare, e-commerce, and business domains.
 
-🏆 **Employee of the Month** (Twice) — recognized for optimized, high-quality delivery under tight deadlines.
-
 ---
 
 ## 🔧 Tech Stack & Skills
